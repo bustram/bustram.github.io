@@ -1,0 +1,27 @@
+body {
+	font-family: "Arial Narrow";
+}
+a:link, a:visited {
+	display: block;
+	width: auto;
+	overflow: hidden;
+	margin: 4px;
+	padding: 6px;
+	background-color: black;
+	color: white;
+	float: left;
+	text-decoration: none;
+}
+a:hover, a:active {
+	display: block;
+	width: auto;
+	overflow: hidden;
+	margin: 4px;
+	padding: 5px;
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+	float: left;
+	text-decoration: none;
+	
+}
